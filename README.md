@@ -5,3 +5,4 @@ Enter the items to be added in the following way
 <<ProductName>> <<SellIn>> <<Quality>>
  We need to enter values for all the above fields and all the items that are mentioned in the problem given have to be entered.
   The ouptut appears.
+NOTE:InventoryMgmt.zip contains all the source code for this application
